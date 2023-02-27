@@ -29,8 +29,3 @@ int _atoi(char *s)
 	res = sig * res;
 	return (res);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Pr
