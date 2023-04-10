@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdio.h>
-
+int main()
 {
 	unsigned int n;
 
